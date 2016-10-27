@@ -186,18 +186,19 @@ RxJava++Retrofi2t+Glide+ButterKnife+ Material Design
 
 <table>
 <tr>
+<td><img src="./screenshots/map.png" ></td>
 <td><img src="./screenshots/home1.png" ></td>
 <td><img src="./screenshots/home2.png" ></td>
 <td><img src="./screenshots/nav.png" ></td>
-<td><img src="./screenshots/back.png" ></td>
 </tr>
 </table>
 <table>
 <tr>
+<td><img src="./screenshots/back.png" ></td>
 <td><img src="./screenshots/city1.png" ></td>
 <td><img src="./screenshots/city2.png" ></td>
 <td><img src="./screenshots/city3.png" ></td>
-<td><img src="./screenshots/monthCount.png" ></td>
+
 </tr>
 </table>
 <table>
