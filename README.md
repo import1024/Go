@@ -1,5 +1,5 @@
-![sport is the source of all life.](./screenshots/go.png)
 ### 简介
+![sport is the source of all life.](./screenshots/go.png)
 这是一个户外的运动 app ，在开始它会记录你的一些身体信息。当你使用它在户外跑步的时候，它会记录你运动的轨迹，运动时间、运动里程、速度等等。当然还包括你运动时产生的想法，一张代表你心情、想法或是记录美丽风景的照片。整 app 围绕这数据的产生（记录），数据的存储，数据的展示进行。
    
 当然上面的语言太官方了，不过这可以让绝大多数人迅速了解这款应用的功能。接下来可能是一些不着边际的话。因为绝大多数功能在这个第一版的 app 里并未实现，不过这代表这产品的进化方向。主要阐述我对这个产品一些设计上的理念或是情怀，对产品用户需求的分析以及对运动类移动应用功能发展的探讨，最后是一些对技术层面实现的相关说明。
@@ -189,7 +189,7 @@ RxJava++Retrofi2t+Glide+ButterKnife+ Material Design
 <td><img src="./screenshots/home1.png" ></td>
 <td><img src="./screenshots/home2.png" ></td>
 <td><img src="./screenshots/nav.png" ></td>
-<td><<img src="./screenshots/back.png" ></td>
+<td><img src="./screenshots/back.png" ></td>
 </tr>
 </table>
 <table>
@@ -197,7 +197,7 @@ RxJava++Retrofi2t+Glide+ButterKnife+ Material Design
 <td><img src="./screenshots/city1.png" ></td>
 <td><img src="./screenshots/city2.png" ></td>
 <td><img src="./screenshots/city3.png" ></td>
-<td><<img src="./screenshots/monthCount.png" ></td>
+<td><img src="./screenshots/monthCount.png" ></td>
 </tr>
 </table>
 <table>
@@ -205,11 +205,12 @@ RxJava++Retrofi2t+Glide+ButterKnife+ Material Design
 <td><img src="./screenshots/profile1.png" ></td>
 <td><img src="./screenshots/profile2.png" ></td>
 <td><img src="./screenshots/pop.png" ></td>
-<td><<img src="./screenshots/monthCount.png" ></td>
+<td><img src="./screenshots/monthCount.png" ></td>
 </tr>
 </table>
 
 ### 应用下载
 
 **apk 直接下载：**[go.apk](./apk/go.apk)
+
 **应用市场：**[360应用市场](./apk/go.apk)
